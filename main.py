@@ -7,6 +7,7 @@ def parallel_processing(n, m, data):
 
     return output
 
+
 def main():
     # TODO: create input from keyboard
     # input consists of two lines
